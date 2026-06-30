@@ -2,10 +2,14 @@
 
 > Drop any Utilix tool into your website with a single script tag or npm import.
 
-[![npm](https://img.shields.io/npm/v/@utilix-tech/embed)](https://www.npmjs.com/package/@utilix-tech/embed)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**[utilix.tech](https://utilix.tech)** · [Docs](https://docs.utilix.tech/embed) · [npm](https://www.npmjs.com/package/@utilix-tech/embed)
+**[utilix.tech](https://utilix.tech)** · [Docs](https://www.utilix.tech/docs) · [Tools](https://www.utilix.tech/tools)
+
+> **⚠️ Preview — not yet published**
+>
+> The npm package (`@utilix-tech/embed`) and CDN URLs are not yet live.
+> This repository documents the planned API. If you want early access or to be a design partner, email **hello@utilix.tech**.
 
 ---
 
