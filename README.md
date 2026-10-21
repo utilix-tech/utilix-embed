@@ -15,7 +15,7 @@
 
 ## What is this?
 
-The Utilix Embed SDK lets you embed any of the 309+ Utilix tools directly into your own site — documentation, dashboards, landing pages, or internal tools. Tools render as self-contained interactive widgets with no iframe overhead.
+The Utilix Embed SDK lets you embed any of the 311+ Utilix tools directly into your own site — documentation, dashboards, landing pages, or internal tools. Tools render as self-contained interactive widgets with no iframe overhead.
 
 ---
 
@@ -187,7 +187,7 @@ Available iframe params: `theme`, `input` (URL-encoded default input), `hideHead
 
 ## Available Tools
 
-All 309+ tools are embeddable. Popular picks:
+All 311+ tools are embeddable. Popular picks:
 
 | Slug | Tool |
 |------|------|
